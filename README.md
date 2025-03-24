@@ -1,8 +1,8 @@
 # Olá! Eu sou o Bruno Tomaz 👋
 
-🔹 Desenvolvedor Backend | Python | Django | Flask  
-🔹 Apaixonado por tecnologia e empreendedorismo  
-🔹 Trabalhando em projetos de APIs e automação  
+##  Sobre mim
+Sou um desenvolvedor back-end apaixonado por tecnologia e matemática. Desde cedo, me interessei por essa área e acredito que a tecnologia tem o poder de transformar e facilitar a vida das pessoas por meio de soluções inovadoras.
+Atualmente, meu foco está em Python, Django e FastAPI, e estou sempre em busca de novos conhecimentos para aprimorar minhas habilidades e desenvolver sistemas cada vez mais eficientes e escaláveis. Meu objetivo é criar soluções inteligentes que otimizem processos e gerem impacto real.
 
 ## 🚀 Tecnologias  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
