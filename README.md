@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá! Eu sou [Seu Nome] 👋
 
-<!--
-**Tomazbr9/Tomazbr9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Desenvolvedor Backend | Python | Django | Flask  
+🔹 Apaixonado por tecnologia e empreendedorismo  
+🔹 Trabalhando em projetos de APIs e automação  
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats  
+![Seu Nome's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark)
+
+## 📫 Como me encontrar?  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=website&logoColor=white)](https://seu-site.com)
+
+---
+🚀 **Sempre aprendendo e criando novos projetos!**  
