@@ -1,4 +1,4 @@
-# Olá! Eu sou [Seu Nome] 👋
+# Olá! Eu sou o Bruno Tomaz 👋
 
 🔹 Desenvolvedor Backend | Python | Django | Flask  
 🔹 Apaixonado por tecnologia e empreendedorismo  
