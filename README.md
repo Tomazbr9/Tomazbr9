@@ -22,7 +22,7 @@ Atualmente, meu foco está em Python, Django e FastAPI, e estou sempre em busca 
   ⏳ Cursando  
 
 ## 📈 GitHub Stats  
-![Bruno Tomaz GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tomazbr9&show_icons=true&theme=dark)
 
 ## 📫 Como me encontrar?  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-tomaz-5232451b2/)
