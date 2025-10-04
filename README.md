@@ -3,7 +3,7 @@
 ## 🧑‍💻 Sobre mim  
 Sou um **Desenvolvedor Back-End** apaixonado por **tecnologia**, **lógica** e **resolução de problemas**. Tenho como principal objetivo criar soluções eficientes, escaláveis e de alto impacto para o negócio.  
 
-Atualmente, foco minha carreira no **ecossistema Java com Spring Boot**, desenvolvendo **APIs RESTful**, aplicando **boas práticas de arquitetura**, **princípios SOLID**, **microsserviços** e **integrações entre sistemas**.  
+Atualmente, foco minha carreira no **ecossistema Java com Spring Boot**, desenvolvendo **APIs RESTful**, aplicando **boas práticas de arquitetura**, **princípios SOLID** e **integrações entre sistemas**.  
 
 Sou movido pela curiosidade e pela melhoria contínua, sempre buscando evoluir minhas habilidades técnicas e contribuir com projetos desafiadores que gerem valor real.  
 
@@ -26,7 +26,6 @@ Sou movido pela curiosidade e pela melhoria contínua, sempre buscando evoluir m
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
 
