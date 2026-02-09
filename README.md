@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o **Bruno Tomaz**
+![Hi, I'm Bruno](banner.png)
 
 ## 🧑‍💻 Sobre mim  
 Sou um **Desenvolvedor Back-End** apaixonado por **tecnologia**, **lógica** e **resolução de problemas**. Tenho como principal objetivo criar soluções eficientes, escaláveis e de alto impacto para o negócio.  
