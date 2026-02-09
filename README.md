@@ -75,6 +75,6 @@ Faculdade das Américas (FAM) — Cursando
 ## Contato
 
 LinkedIn: https://www.linkedin.com/in/bruno-tomaz-5232451b2/  
-Portfólio: em desenvolvimento
+Email: brunotomaaz@yahoo.com
 
 Sempre aprendendo, evoluindo e criando novos projetos.
