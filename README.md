@@ -2,7 +2,7 @@
   <tr>
     <td align="center">
       <img
-        src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6DB33F&center=true&vCenter=true&width=420&lines=Oi%2C+eu+sou+o+Bruno+%F0%9F%91%8B;Desenvolvedor+Back-End;Java+%7C+Spring+Boot;APIs+REST+%7C+SOLID"
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6DB33F&center=true&vCenter=true&width=520&lines=Oi%2C+eu+sou+o+Bruno%2C+bem+vindo+ao+meu+GitHub"
         alt="Typing SVG"
       />
     </td>
@@ -15,6 +15,7 @@
     </td>
   </tr>
 </table>
+
 
 
 <h2 align="center">Sobre mim</h2>
