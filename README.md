@@ -1,6 +1,21 @@
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2l2NXZudTljdGtiNXd5eTAwM2lnamw2bXR0Nmk3b2hwaDVzaGg3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WDH0KOD68mVzqTrfFr/giphy.gif" alt="Hi, I'm Bruno">
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6DB33F&center=true&vCenter=true&width=420&lines=Oi%2C+eu+sou+o+Bruno+%F0%9F%91%8B;Desenvolvedor+Back-End;Java+%7C+Spring+Boot;APIs+REST+%7C+SOLID"
+        alt="Typing SVG"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2l2NXZudTljdGtiNXd5eTAwM2lnamw2bXR0Nmk3b2hwaDVzaGg3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WDH0KOD68mVzqTrfFr/giphy.gif"
+        width="220"
+        alt="Coding GIF"
+      />
+    </td>
+  </tr>
+</table>
+
 
 <h2 align="center">Sobre mim</h2>
 
