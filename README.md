@@ -2,7 +2,7 @@
   <tr>
     <td align="center">
       <img
-        src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=Oi%2C+eu+sou+o+Bruno%2C+bem+vindo+ao+meu+GitHub"
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0096c7&center=true&vCenter=true&width=600&lines=Oi%2C+eu+sou+o+Bruno%2C+bem+vindo+ao+meu+GitHub"
         alt="Typing SVG"
       />
     </td>
