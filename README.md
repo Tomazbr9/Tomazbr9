@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Hi, I'm Bruno">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2l2NXZudTljdGtiNXd5eTAwM2lnamw2bXR0Nmk3b2hwaDVzaGg3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WDH0KOD68mVzqTrfFr/giphy.gif" alt="Hi, I'm Bruno">
 </p>
 
 <h2 align="center">Sobre mim</h2>
